@@ -1,4 +1,13 @@
-# Innomatics Internship – Programming Task 1 (Basic Python)
+# Innomatics Data Science and Gen AI Internship
 
-This repository contains my solutions for Programming Task 1 as part of the Innomatics Data Science Internship.  
-It includes Python basics, HackerRank problem solutions, and practice scripts.
+This repository contains all tasks and assignments completed as part of the  
+**Innomatics Research Labs – Data Science Internship**.
+
+## 📂 Tasks
+
+### ✅ Task 1: Basic Python Programming
+- Python fundamentals
+- HackerRank Python (Introduction) problem solutions
+- Practice scripts
+
+More tasks will be added as part of the internship.
